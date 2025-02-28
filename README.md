@@ -25,7 +25,7 @@ A 2D **resource management puzzle game** where players must efficiently distribu
 ## 📌 Installation & Running the Game
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/water-conservation-game.git
+   git clone https://github.com/IamMoosa/WaterGame.git
    ```
 2. Open the project in **GameMaker Studio**.
 3. Run the game in the GameMaker environment.
